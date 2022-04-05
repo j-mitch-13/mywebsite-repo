@@ -1,0 +1,96 @@
+#HomeNavigationBar{
+	background-color:  turquoise;
+	font-size:  14px;
+	text-transform: none;
+	padding: 0;
+	margin: auto;
+}
+
+nav#HomeNavigationBar ul li{
+	display: inline-block;
+	width: 19.8%;
+	text-align: center;
+}
+
+#SocialHeader{
+	color:  white;
+	font-family:  cursive;
+	box-sizing: border-box;
+}
+
+#SocialNavBar a {
+	color:  green;
+	margin:  auto;
+}
+
+#SocialNavBar {
+	margin: 0;
+}
+
+#HomeMainView{
+	border: 3px solid green;
+	display: inline-block;
+	width: 77vw;
+	height: 100vh;
+	margin: 0;
+	position: static;
+}
+
+#HomeAside{
+	height: 100%;
+	width: 20vw;
+	float:  right;
+	border: 3px solid black;
+	margin: 0;
+	position: static;
+}
+
+#ContactJosh {
+	border: 3px solid limegreen;
+	height: 49.3vh;
+	width: 100;
+}
+
+#ChangeWebsiteColor{
+	border: 3px dotted hotpink;
+	height: 49.3vh;
+	width: 100;	
+}
+
+#ContactJosh input, #ContactJosh textarea{
+	float: right;
+	resize: none;
+}
+
+#ChangeWebsiteColor button{
+	height: 43%;
+	width: 49%;
+	display: inline;
+	cursor: pointer;
+}
+
+#GradientButton{
+	background: linear-gradient(brown, pink, green);
+}
+
+#DarkButton {
+	color: white;
+	background-color: black;
+}
+
+#FunButton{
+	background: conic-gradient(turquoise, hotpink, lightgreen, orange, lightgoldenrodyellow, orange, lightgreen, hotpink, turquoise);
+}
+
+#DefaultButton{
+	color: black;
+	background-color: white;
+}
+
+footer{
+	background-color: black;
+	font-size: 3rem;
+	position: static;
+	top: 88vh;
+}
+
