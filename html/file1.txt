@@ -2,8 +2,3 @@ hello world
 this is added text 
 crumble cookies 
 treats 
-theta tau is an incredible feat
-
-this is text in the main branch
-
-this is text in the hello branch
