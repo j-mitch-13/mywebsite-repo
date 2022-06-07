@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>ToDo List</title>
+        <!--<link href="../../public/css/todolist.css" rel="stylesheet" type="text/css"/>-->
+        <link href="../css/todolist.css" rel="stylesheet" type="text/css"/>
+        <script src="http://code.jquery.com/jquery-1.12.3.min.js"></script>
+        <script type="text/javascript" src="/assets/todo-list.js"></script>
+        <link rel="icon" type="image/x-icon" href="../pictures/favicon.ico">
+    </head>
+    <body>
+        <h1><center>A To-Do List</center></h1>
+        <a href = '/'>Back to homepage</a>
+        <h1 class = "header">My Todo List</h1>
+        <div id ="todo-table">
+            <form>
+                <% if (todos.length <= 10) {%>
+                    <input type="text" name="item" placeholder="Add new item to the to do list..." required />
+                    <button type="submit">Add Item</button>
+                <% }else { %>
+                    <input type="text" name="item" placeholder="Your list cannot be more than 10 items..." required />
+                <% } %>
+            </form>
+            <ul>
+                <% for(var i = 0; i < todos.length; i++){ %>
+                    <li><%= todos[i].item %></li>
+                <% } %>
+            </ul>
+        </div>
+    </body>
+</html>

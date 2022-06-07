@@ -1,0 +1,30 @@
+{
+  "name": "mywebsitefiles",
+  "version": "1.0.0",
+  "description": "\"# mywebsite-repo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-mitch-13/mywebsite-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-mitch-13/mywebsite-repo/issues"
+  },
+  "homepage": "https://github.com/j-mitch-13/mywebsite-repo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
