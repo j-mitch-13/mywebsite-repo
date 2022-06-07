@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "629bf93ccea0f87793a228ce"
+  },
+  "title": "We Are All Stardust",
+  "author": "Stefan Klein",
+  "pages": 261,
+  "year_published": 2015,
+  "year_read": 2020
+},{
+  "_id": {
+    "$oid": "629bf997cea0f87793a228cf"
+  },
+  "title": "Everything is F*cked",
+  "author": "Mark Manson",
+  "pages": 232,
+  "year_published": 2019,
+  "year_read": 2020
+}, {
+  "title": "They called Us Enemy", 
+  "author": "George Takei",
+  "pages": 204, 
+  "year_published": 2019,
+  "year_read": 2021
+}, {
+  "title": "A Promise Land", 
+  "author": "Barack Obama",
+  "pages": 701, 
+  "year_published": 2020,
+  "year_read": 2021
+}, {
+  "title": "Models", 
+  "author": "Mark Manson",
+  "pages": 277, 
+  "year_published": 2011,
+  "year_read": 2020
+}, {
+  "title": "The Warmth of Other Suns", 
+  "author": "Isabel Wilkerson", 
+  "pages": 543, 
+  "year_published": 2010,
+  "year_read": 2020
+}, {
+  "title": "Network Propaganda", 
+  "author": "Yochai Benkler, Robert Faris, Hal Roberts", 
+  "pages": 387, 
+  "year_published": 2018,
+  "year_read": 2020
+}, {
+  "title": "King, Warrior, Magician, Lover", 
+  "author": "Robert Moore, Douglas Gillette", 
+  "pages": 156, 
+  "year_published": 1990,
+  "year_read": 2020
+}, {
+  "title": "Moneyball", 
+  "author": "Michael Lewis", 
+  "pages": 301, 
+  "year_published": 2003,
+  "year_read": 2020
+}, {
+  "title": "Unbroken", 
+  "author": "Laura Hillenbrand", 
+  "pages": 406, 
+  "year_published": 2010,
+  "year_read": 2020
+}, {
+  "title": "Man's Search for Meaning", 
+  "author": "Viktor Frankl", 
+  "pages": 165, 
+  "year_published": 1946,
+  "year_read": 2020
+}, 
+{
+  "title": "Devil in the White City", 
+  "author": "Eric Larson", 
+  "pages": 388, 
+  "year_published": 2003,
+  "year_read": 2020
+}, {
+  "title": "The Woman's Hour", 
+  "author": "Elaine Weiss", 
+  "pages": 340, 
+  "year_published": 2018,
+  "year_read": 2020
+}, {
+  "title": "The Worst Hard Time", 
+  "author": "Timothy Egan", 
+  "pages": 312, 
+  "year_published": 2006,
+  "year_read": 2020
+}, {
+  "title": "Killers of the Flower Moon", 
+  "author": "David Grann", 
+  "pages": 316, 
+  "year_published": 2017,
+  "year_read": 2020
+}, {
+  "title": "Will", 
+  "author": "Will Smith & Mark Manson", 
+  "pages": 412, 
+  "year_published": 2021,
+  "year_read": 2022
+}, {
+  "title": "The Alchemist", 
+  "author": "Paulo Coelho", 
+  "pages": 179, 
+  "year_published": 2008,
+  "year_read": 2022
+}, {
+  "title": "The Art of War", 
+  "author": "Sun Tzu", 
+  "pages": 68,  
+  "year_published": "5th Century BC",
+  "year_read": 2021
+}, {
+  "title": "Letters to Phillip", 
+  "author": "Charlie W. Shedd", 
+  "pages": 128, 
+  "year_published": 1968,
+  "year_read": 2020
+}, {
+  "title": "She Can Bring Us Home", 
+  "author": "Diane Kiesel", 
+  "pages": 249, 
+  "year_published": 2015,
+  "year_read": 2020
+}, {
+  "title": "Addressing Homelessness & Housing Insecurity", 
+  "author": "Hallet, Crutchfield, Maguire", 
+  "pages": 123, 
+  "year_published": 2019,
+  "year_read": 2021
+}, {
+  "title": "Smart Baseball", 
+  "author": "Keith Law", 
+  "pages": 285, 
+  "year_published": 2017,
+  "year_read": 2020
+}, {
+  "title": "The Imp of the Mind", 
+  "author": "Lee Baer", 
+  "pages": 137, 
+  "year_published": 2001,
+  "year_read": 2020
+}, {
+  "title": "Shoe Dog", 
+  "author": "Phil Knight", 
+  "pages": 383, 
+  "year_published": 2016,
+  "year_read": 2022
+}, {
+  "title": "Tuesdays with Morrie", 
+  "author": "Mitch Albom", 
+  "pages": 199, 
+  "year_published": 1997,
+  "year_read": 2022
+}, {
+  "title": "The New Jim Crow", 
+  "author": "Michelle Alexander", 
+  "pages": 312, 
+  "year_published": 2010,
+  "year_read": 2020
+}, {
+  "title": "7 Habits of Highly Effective People", 
+  "author": "Stephen Covey", 
+  "pages": 381, 
+  "year_published": 1989,
+  "year_read": 2020
+}, {
+  "title": "All About Love", 
+  "author": "Bell Hooks", 
+  "pages": 272, 
+  "year_published": 1999,
+  "year_read": 2020
+},               
+]

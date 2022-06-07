@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const path = require("path");
-var bodyParser = require('body-parser');
+const bodyParser = require("body-parser");
 
 
 //Create schema
@@ -15,9 +15,11 @@ const bookSchema = new mongoose.Schema({
 const Book = mongoose.model('Book', bookSchema);
 
 //Try middleware
+
 var urlendcodedParser = bodyParser.urlencoded({extended: false});
 
 module.exports = function(app){
+
     app.get('/reading', function(req, res){
         Book.find({}, function(err, data){
             if(err)
@@ -30,10 +32,5 @@ module.exports = function(app){
     //This is to test the sort by ASC title
     app.post('/reading', urlendcodedParser, function(req, res){
         console.log('A button has been clicked');
-    });
-
-    //This is a method to sort by DESC title
-    app.post('/reading', urlendcodedParser, function(req, res){
-
     });
 }
