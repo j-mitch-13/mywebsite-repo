@@ -1,1 +1,1 @@
-"# mywebsite-repo" 
+These are all the files for creating my own personal website as I learn how to be a better software eningeer on the front and back end
