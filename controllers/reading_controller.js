@@ -27,7 +27,7 @@ module.exports = function(app){
         console.log('The reading controller has been fired');
     });
 
-    app.post('/practice', urlendcodedParser, function(req, res){
+    app.post('/reading', urlendcodedParser, function(req, res){
         console.log('A button has been clicked');
     });
 }
